@@ -52,3 +52,7 @@ Format the card as FAT16 or FAT32. The log is written to `BABY.CSV`:
 Date,Time,Baby,Activity,Value
 12-Nov-2026,09:05:03,Fariz,Milk,140
 ```
+<img width="4624" height="3472" alt="IMG_20261111_233604" src="https://github.com/user-attachments/assets/9876cb19-ff1b-4ab3-94ca-4c8a0e086a8a" />
+<img width="4624" height="3472" alt="IMG_20261111_233546" src="https://github.com/user-attachments/assets/e1fdf906-4df8-433f-bc1f-d83fc7bbf487" />
+<img width="1080" height="1440" alt="image-1794413829108" src="https://github.com/user-attachments/assets/0e8184d2-157c-471a-bc26-285e107cd455" />
+<img width="4624" height="3472" alt="IMG_20261111_233632" src="https://github.com/user-attachments/assets/e6440bf4-572c-4e81-a3a1-aa74900aa5fb" />
